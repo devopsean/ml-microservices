@@ -5,13 +5,13 @@
 
 # Step 1:
 # Create dockerpath
-dockerpath="ebunola/operationalizeml"
+dockerpath="seanflutter/microservice"
 
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
 docker login
-docker tag operationalizeml ${dockerpath}
+docker tag microservice ${dockerpath}
 
 # Step 3:
 # Push image to a docker repository
