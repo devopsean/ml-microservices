@@ -1,5 +1,5 @@
 
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/ebunola/operationalize-ml-microservices-kubernetes/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Uceeyjudy/ebunola/operationalize-ml-microservices-kubernetes/tree/master)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/seanFlutter/ml-microservices/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/seanFlutter/ml-microservices/tree/master)
 ## Project Overview
 
 
